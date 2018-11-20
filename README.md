@@ -1,1 +1,1 @@
-https://mariia1304.github.io/album_actividad_7/
+https://mariia1304.github.io/album_actividad_7/public/index.html
