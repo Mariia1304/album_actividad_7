@@ -1,12 +1,50 @@
-body {
-	background: black;
-	font-size: 30px;
+.jumbotron {
+    background-image: url(../img/bg2.jpg);
+    background-size: 100%;
+    margin-bottom: 3vh;
+    h2 {
+        text-align: center;
+        color: white;
+    }
+    h6 {
+        font-size: 1.5rem;
+        margin-left: 15vw;
+        text-align: center;
+        color: white;
+        width: 60vw;
+    }
 }
-
-.container {
-	background: black;
-
-	p {
-		font-size: 40px;
-	}
+.navbar-brand {
+    padding-top: 1.3vh;
+    img {
+        width: 4%;
+    }
+}
+a {
+    color: gray;
+    text-decoration: none;
+}
+.thumbnail {
+    border-radius: 14px;
+    padding: 0px;
+    border: solid 5px #e9e9e9;
+    h2 {
+        font-size: 2.5em;
+        text-align: center;
+    }
+    p {
+        font-size: 0.8em;
+        text-align: center;
+    }
+    img {
+        border-radius: 9px 9px 0 0;
+    }
+    .text-center {
+        padding-bottom: 10px;
+    }
+}
+.panel-body {
+    img {
+        width: 2%;
+    }
 }
